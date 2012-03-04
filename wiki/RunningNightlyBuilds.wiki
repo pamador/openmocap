@@ -5,5 +5,5 @@
   * MinGW 4.4.X (http://www.mingw.org/wiki/Getting_Started)
   Include c++ compiler when installing. After installation, add MinGW installation directory to Window's PATH system variable.
 
-  * Nokia Qt SDK 4.7.1+ (http://qt.nokia.com/downloads/sdk-windows-cpp)
+  * Nokia Qt SDK 4.7.1 (http://qt.nokia.com/downloads/sdk-windows-cpp)
   When using the online installer, you just need to select Qt > Development Tools > Desktop Qt > Qt 4.7.1 node. After installation, add Qt SDK installation directory to Window's PATH system variable.
