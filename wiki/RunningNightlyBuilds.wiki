@@ -3,3 +3,4 @@
 = Requirements =
 
   * MinGW 4.4.X (http://www.mingw.org/wiki/Getting_Started)
+  Include c++ compiler when installing. After installation, put installation directory in PATH.
