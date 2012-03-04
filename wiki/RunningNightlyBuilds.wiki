@@ -9,4 +9,4 @@
   When using the online installer, you just need to select Qt > Development Tools > Desktop Qt > Qt 4.7.1 node. After installation, add Qt SDK installation directory (C:\QtSDK\Desktop\Qt\4.7.1\mingw\bin if default)to Window's PATH system variable.
 
   * OpenCV 2.3.1 (http://sourceforge.net/projects/opencvlibrary/)
-  Extract it to C:\OpenCV. After installation, add OpenCV installation directory (C:\OpenCV\build\x86\mingw\bin if default)to Window's PATH system variable.
+  Extract it to C:\OpenCV. After installation, add OpenCV installation directory (C:\OpenCV\build\x86\mingw\bin if default) to Window's PATH system variable.
