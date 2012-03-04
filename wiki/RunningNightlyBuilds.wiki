@@ -2,5 +2,5 @@
 
 = Requirements =
 
-* MinGW 4.4.x +
-http://www.mingw.org/wiki/Getting_Started
+  * MinGW 4.4.X+
+  http://www.mingw.org/wiki/Getting_Started
