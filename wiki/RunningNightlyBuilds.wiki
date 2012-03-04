@@ -13,3 +13,7 @@
 
   * OptiTrack COM 2D SDK 1.3.038 (http://www.naturalpoint.com/optitrack/downloads/archives.html)
   We are working on removing this dependency when not using OptiTrack cameras.
+
+= Running =
+
+  * Calibrate your cameras using a square pattern!
